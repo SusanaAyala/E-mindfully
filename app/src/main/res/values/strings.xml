@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Emindfully</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="logo_name">Purpose</string>
+    <string name="logo_des">An app to simple and healthy recipes with its practice on mindful eating.</string>
+    <string name="logo_description">Explore a variety of recipes and the concept of eating mindfully.\nEating mindfully can be described as the practice of cultivating an open-minded awareness of how food preparation, eating environments and the food we choose to eat affects ones body, feelings, mind, and the environment around us.
+    \n\n Here are 7 steps to eating mindfully:\n 1. Slow down the pace at which you eat.For example, take breaks during bites, eat more slowly, and take a break to breath.
+    \n 2. Eat away from distractions, such as the TV, computer, or eating with phone at hand.
+    \n\n 3. Become aware of your body state, letting you know when its hungry and full so you can recognise hunger cues more easily.
+    \n 4. Use your hunger cues to guide your decisions on when to begin and end eating.
+    \n\n 5. Choose to eat foods that are pleasing and nourishing by using your five senses(smell, taste, sight, sound, and touch) while eating.
+    \n 6. Understand your motivations - eating foods that are emotionally comforting vs. eating foods that are nutritionally healthy.
+    \n\n 7. Prepare your own meals where possible. The act of preparing food - touching, tasting and smelling - will help to improve your psychological relationship with food.\n </string>
+
+    <string name="bowl_name">Acai Goodness</string>
+    <string name="bowl_des">A fruit packed acai bowl.Topped with berries, strawberries, bananas, and coconut shreds.</string>
+    <string name="bowl_description">Ingredients:\n 2 packets unsweetened frozen acai.\n 1 cup coconut milk.\n 1 cup frozen mixed berries.\n 2 bananas.
+    \n\n Toppings:\n Mixed berries.\n Kuwait.\n Bananas.\n Coconut flakes.\n\n Method:\n 1. Place all the ingredients together in a high-powered blender
+        \n and blend until smooth.\n
+        2.Pour into desired bowls and top with mixed fruit and toppings. </string>
+
+    <string name="juice_name">Pineapple Power</string>
+    <string name="juice_des">A friendly and fruity combination of tropical variants and refreshing flavours.</string>
+    <string name="juice_description">Ingredients:\n (1 inch) fresh ginger root, peeled.\n 1 medium-sized pineapple.\n 2 cups water.\n 1 lime, juiced(optional).
+        \n\n Method:\n 1. Remove peel and core from pineapple and chop into cubes.
+        \n Then, start by peeling and roughly chopping the ginger, preparing these main ingredients for the juice.
+    \n\n 2. Secondly, in a blender, pour 2 cups water, and simply blend the pineapple and ginger until all ingredients are pureed.
+    \n\n 3. Pour juice through a strainer to get any remaining bits left.
+    \n 4. Pour into a glass and serve immediately.</string>
+
+    <string name="oat_name">Overnight Oats</string>
+    <string name="oat_des">A sweet and gluten-free, chocolatey porridge, with hazelnut milk, berries, and chia seeds.</string>
+    <string name="oat_description">Ingredients:\n 1 cup of Oats.\n 2tbps Chia seeds.\n Hazelnut milk.\n 1 tbps Cacao powder.\n Berries/Banana/fruit.
+    \n\n Method:\n 1. In a bowl, place the oats, chia seeds and cacao powder and \n mix.
+    \n 2. Pour nut milk till oats are covered.
+    \n 3. Let it rest on the counter overnight, or place in fridge.
+    \n 4. The following morning, stir mixture and add more milk to get the desired consistency.
+    \n 5. Top with fruits of choice and enjoy!</string>
+
+    <string name="lentil_name">Lovely Lentils</string>
+    <string name="lentil_des">Protein-rich and filling lentil stew with mixed spices, peppers, red tomatoes, and freshly chopped coriander.</string>
+    <string name="lentil_description">Ingredients:\n 250g Green/Lentils.\n 4/5 cloves of chopped Garlic.\n 2 medium chopped Onions.\n Handful of Coriander.
+    \n Half a bell pepper.\n 1 chopped Tomato.\n 2tsps.Cumin.\n Salt.\n 1tbps Coconut oil.
+    \n\n Method:\n 1. In a medium pot cook lentils till tender (about 30/40 minutes).
+    \n\n 2. Whilst lentils are cooking, in a pan add coconut oil and fry garlic, onion,
+    bell pepper, paprika, cumin and salt to taste till onions have become softened.
+    \n\n 3. Add coriander to the pan.
+    \n\n 4. Once lentils have been cooked, transfer pan mixture to pot and mix in with the lentils.
+    \n\n 5. Enjoy with, plantain, rice or avocado.\n\n </string>
+
+    <string name="soup_name">Soul Soup</string>
+    <string name="soup_des">A warm and creamy tomato base, mixed with carrots, peppers, and good spices.</string>
+    <string name="soup_description">Ingredients:\n Tomatoes.\n Carrots.\n 2 small onions.\n Red Pepper.
+    \n Sea salt.\n 1 cup oats.\n Cumin.\n Garlic.\n Ginger.
+    \n\n Method:\n 1. Put both tomatoes and carrots to boil in hot water. Wait 5 minutes until both
+    tomatoes and carrots are soft and ready for peeling.
+    \n\n 2. Once soft and ready, peel the ginger, onions, and garlic. Then chop into thin and tiny pieces
+    including the red pepper.
+    \n\n 3. Pour some olive oil in a frying pan and add the garlic, ginger, onions, and pepper.
+    Then follow with adding a pinch of sea salt and cumin. Stir for 2 minutes.
+    \n\n 4. Once ingredients fried, using a blender, place the fried ingredients as well as the boiled
+    tomatoes/carrots in, and lastly 1 cup of oats. Mix all ingredients into blender.
+    \n\n 5. Blend all the ingredients for about 5 minutes until smooth paste is formed.
+    \n\n 6. Put smooth paste in a large frying bowl and stir/mix with spoon. Heat once again for 10 minutes.
+    \n\n 7. Serve immediately and enjoy!\n\n</string>
+
+    <string name="salad_name">Taco Salad</string>
+    <string name="salad_des">A full taco salad with a range of delicious flavors and textures.</string>
+    <string name="salad_description">Ingredients:\n Mushrooms.\n 2/3 Chopped garlic.\n 1 or 2 tbsp soya sauce.\n Olive oil.
+    \n Sea salt.\n\n Salad:\n Cucumber.\n Red pepper.\n Fennel.\n Lime Juice.
+    \n\n Method:\n 1.Heat the oil in a frying pan over a medium-high heat and add mushrooms
+    garlic, 1tbsp soya sauce, and salt for taste.
+    \n 2.Cook for 5-10mins until soft and cooked through.
+    \n\n For the dressing: Season and stir in the cucumber, red pepper, and fennel.
+    Scatter over lime juice and olive oil. Serve with ready made tortillas.\n</string>
+
+    <string name="balls_name">Bliss Balls</string>
+    <string name="balls_des">A small snack of date balls with cacao powder.</string>
+    <string name="balls_description">Ingredients:\n 7/10 soaked/soft dates.\n 2/3 tbsps. Cacao powder.
+    \n Any nut butter(peanut, almond, cashew etc.)\n Dash of salt.\n Dash of powdered cinnamon.
+    \n\n Method:\n 1. In a processor, add all ingredients and pulse until well \n incorporated.
+    \n 2. Using hands, form the balls approx. the same size.
+    \n 3. Leave to rest in the fridge for 10 minutes.
+    \n 4. Take out of fridge and Enjoy!</string>
+
+    <string name="taco_name">Mini Tacos</string>
+    <string name="taco_des">Satisfying mini-tacos with salad and avocado stuffing.</string>
+    <string name="taco_description">Ingredients:\n 4/5 tortillas.\n 1 avocado.\n Juice of 1 and 2 cups a lemon.
+    \n 2 tbsps. Olive oil.\n Hemp seeds.\n Wild rocket/lettuce/green of choice.
+    \n Chopped cherry tomatoes (optional).\n\n Method:\n 1. In a pan, heat up tortillas.
+        \n\n 2. Prepare in a bowl the "taco meat" by adding 1 smashed avocado, lemon
+        juice, olive oil, hemp seeds, green of choice and cherry tomatoes(optional).
+    \n\n 3. Scoop the "taco meat" to the tortilla and enjoy! </string>
+
+
+</resources>
